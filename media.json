@@ -1,12 +1,18 @@
-{
-  "testa": [
-    "https://raw.githubusercontent.com/Lynabot-md/figuatt/refs/heads/main/a1.webp",
-    "https://raw.githubusercontent.com/Lynabot-md/figuatt/refs/heads/main/a2.webp",
-    "https://raw.githubusercontent.com/Lynabot-md/figuatt/refs/heads/main/a3.webp"
-  ],
-  "testa4": [
-    "https://raw.githubusercontent.com/Lynabot-md/figuatt/refs/heads/main/a4.webp",
-    "https://raw.githubusercontent.com/Lynabot-md/figuatt/refs/heads/main/a5.webp",
-    "https://raw.githubusercontent.com/Lynabot-md/figuatt/refs/heads/main/a6.webp"
-  ]
-}
+[
+  {
+    "teste": [
+      "https://raw.githubusercontent.com/Lynabot-md/figuatt/refs/heads/main/a1.webp",
+      "https://raw.githubusercontent.com/Lynabot-md/figuatt/refs/heads/main/a2.webp",
+      "https://raw.githubusercontent.com/Lynabot-md/figuatt/refs/heads/main/a3.webp",
+      "https://raw.githubusercontent.com/Lynabot-md/figuatt/refs/heads/main/a4.webp",
+      "https://raw.githubusercontent.com/Lynabot-md/figuatt/refs/heads/main/a5.webp"
+    ],
+    "teste2": [
+      "https://raw.githubusercontent.com/Lynabot-md/figuatt/refs/heads/main/a6.webp",
+      "https://raw.githubusercontent.com/Lynabot-md/figuatt/refs/heads/main/a7.webp",
+      "https://raw.githubusercontent.com/Lynabot-md/figuatt/refs/heads/main/a8.webp",
+      "https://raw.githubusercontent.com/Lynabot-md/figuatt/refs/heads/main/a9.webp",
+      "https://raw.githubusercontent.com/Lynabot-md/figuatt/refs/heads/main/a10.webp"
+    ]
+  }
+]
